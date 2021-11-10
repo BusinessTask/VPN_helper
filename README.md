@@ -1,5 +1,5 @@
 # VPN_helper
-梯子使用指南
+梯子使用指南   如何翻墙  梯子用不了了怎么办
 * 下载 https://wwe.lanzoui.com/ia9vAwchrpi 
 * 解压压缩包 ：![image](https://user-images.githubusercontent.com/16251288/141039187-40bef920-61de-4d69-909e-cb1eced56804.png)
 * PC端：快捷方式放桌面![image](https://user-images.githubusercontent.com/16251288/141039242-75039f1e-5cfd-4463-9fb9-eaf177162dc6.png)
